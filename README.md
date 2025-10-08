@@ -5,7 +5,7 @@ Includes authentication, randomized questions, exam interface, and results.
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 - User Registration & Login (JWT Authentication)
 - Start Exam with randomized questions
 - Navigate (Next/Previous) through MCQs
